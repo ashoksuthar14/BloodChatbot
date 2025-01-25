@@ -3,4 +3,4 @@ streamlit==1.26.0
 
 requests
 google.generativeai
-Pillow>=10.0.0
+Pillow>=7.1.0,<10
