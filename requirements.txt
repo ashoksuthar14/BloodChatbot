@@ -1,4 +1,3 @@
 streamlit>=1.26.0
 google-generativeai>=0.3.0
---find-links https://download.lfd.uci.edu/pythonlibs/z3tqcg5k/
 Pillow>=7.1.0,<10
