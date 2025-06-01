@@ -6,7 +6,7 @@ import time
 genai.configure(api_key="AIzaSyA9U_idufidqsnJLypQps6mOjzTHChnWW4")
 
 # Initialize the Gemini model
-model = genai.GenerativeModel('gemini-1.5-pro')
+model = genai.GenerativeModel('gemini-2.0-flash')
 
 # Function to call the Gemini API
 def call_gemini_api(messages):
